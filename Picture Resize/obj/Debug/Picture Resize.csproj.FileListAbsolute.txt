@@ -1,0 +1,11 @@
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\obj\Debug\Picture Resize.csproj.AssemblyReference.cache
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\obj\Debug\Picture Resize.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\obj\Debug\Picture_Resize.Form1.resources
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\obj\Debug\Picture_Resize.Properties.Resources.resources
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\obj\Debug\Picture Resize.csproj.GenerateResource.cache
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\obj\Debug\Picture Resize.csproj.CoreCompileInputs.cache
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\bin\Debug\Picture Resize.exe.config
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\bin\Debug\Picture Resize.exe
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\bin\Debug\Picture Resize.pdb
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\obj\Debug\Picture Resize.exe
+C:\Users\Frenetico\source\repos\Picture Resize\Picture Resize\obj\Debug\Picture Resize.pdb
